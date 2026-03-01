@@ -5,10 +5,10 @@ A database project we built for the Databases course at ISCTE-IUL. The idea was 
 ## Database Design
 
 ### UML Diagram
-![UML Diagram](assets/UML model.png)
+![UML Diagram](assets/UML_model.png)
 
 ### Relational Model
-![Relational Model](assets/Relational model.png)
+![Relational Model](assets/Relational_model.png)
 
 ## Built With
 
