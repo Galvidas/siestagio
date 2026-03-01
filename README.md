@@ -1,6 +1,6 @@
 # SIESTÁGIOS
 
-A database project we built for the Databases course at ISCTE-IUL. The idea was to model a real internship management system for a vocational school — handling everything from registering companies and students to tracking internships and calculating final grades.
+A database project we built for the Databases course at ISCTE-IUL. The idea was to model a real internship management system for a vocational school, handling everything from registering companies and students to tracking internships and calculating final grades.
 
 ## Database Design
 
